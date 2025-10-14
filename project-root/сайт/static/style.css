@@ -1,0 +1,21 @@
+
+.geo{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    
+}
+.logo{
+    
+}
+.search{
+    
+}
+.header--3{
+    
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
