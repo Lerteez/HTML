@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
+  <diagram name="Страница — 1" id="mo6yOdYswy-SujALEuTY">
+    <mxGraphModel dx="856" dy="1213" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zg71ZdvNMtMU3uHbZJ6E-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;flipH=0;strokeColor=default;fillColor=#FFFFFF;strokeWidth=4;glass=0;shadow=0;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="-20" width="1120" height="2460" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg71ZdvNMtMU3uHbZJ6E-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;flipH=0;strokeColor=default;fillColor=#FFFFFF;strokeWidth=4;glass=0;shadow=0;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry y="10" width="1080" height="2392" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg71ZdvNMtMU3uHbZJ6E-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;flipH=0;strokeColor=none;fillColor=#E3E3E3;strokeWidth=30;glass=0;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="330" y="2340" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg71ZdvNMtMU3uHbZJ6E-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=49;flipH=0;strokeWidth=0;glass=0;shadow=0;fillColor=#E3E3E3;fontColor=#333333;strokeColor=none;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="2" y="2" width="1076" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg71ZdvNMtMU3uHbZJ6E-7" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=9;flipH=0;strokeColor=none;fillColor=#E3E3E3;strokeWidth=0;glass=0;shadow=0;fontColor=#333333;fontFamily=Georgia;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="4" y="90" width="1074" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Zg71ZdvNMtMU3uHbZJ6E-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="505" y="20" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;&amp;nbsp; &amp;nbsp;Search&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fillStyle=auto;fontFamily=Georgia;align=left;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="110" width="860" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-2" value="&lt;span style=&quot;font-size: 72px;&quot;&gt;KAV&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fillStyle=auto;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="900" y="110" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-90" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;категория&amp;nbsp; |&amp;nbsp; товары&amp;nbsp; |&amp;nbsp; страна изготовления&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fillStyle=auto;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="15" y="340" width="1045" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-200" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fillStyle=auto;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="530" width="1040" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-202" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fillStyle=auto;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="920" width="1040" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-203" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Georgia;fontSize=12;fontColor=#4E4E4E;strokeWidth=4;strokeColor=#666666;fillColor=#f5f5f5;sketch=1;curveFitting=1;jiggle=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="890" as="sourcePoint" />
+            <mxPoint x="1035" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-205" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#FFFFFF;strokeColor=default;gradientColor=none;fillStyle=auto;fontFamily=Georgia;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="21" y="1272" width="1040" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-210" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#E3E3E3;strokeColor=#666666;fillStyle=dots;fontFamily=Georgia;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="750" y="550" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-211" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 48px;&quot;&gt;цена&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;товар&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="540" width="660" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-213" value="&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;категория&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="510" y="540" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-220" value="&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;категория&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="510" y="935" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-221" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 48px;&quot;&gt;цена&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;товар&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="70" y="935" width="417" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-222" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#E3E3E3;strokeColor=#666666;fillStyle=dots;fontFamily=Georgia;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="750" y="945" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-226" value="&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 48px;&quot;&gt;&lt;b&gt;категория&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="511" y="1294" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-227" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 48px;&quot;&gt;цена&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;товар&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="71" y="1284" width="411" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xBq1Qk2Ko0DVc3LsJZTe-228" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;flipH=0;strokeWidth=2;glass=0;shadow=0;fillColor=#E3E3E3;strokeColor=#666666;fillStyle=dots;fontFamily=Georgia;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="751" y="1294" width="290" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
